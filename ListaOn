@@ -1,0 +1,6 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="Meus canais" pltv-description="Lista IPTV" pltv-cover="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="" pltv-email=""
+
+#EXTINF: -1 tv-id = "" tvg-logo= "https://apps.cartoonnetwork.com.br/uploads/galleries/app/app1/5/426/mini/2ec5514b65bdb23768402fdc9382e50217838457.jpg" group-title= "Infantil", CARTOON NETWORK
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_221ab0dfd7d074f7de188c3eeff03ddb50fb504d/playlist.m3u8
